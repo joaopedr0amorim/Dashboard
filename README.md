@@ -1,1 +1,1 @@
-# Dashboard
+# 📊 Painel de Vendas
